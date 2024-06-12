@@ -1,0 +1,1 @@
+UPDATE `contacts` SET `message`='I am here' WHERE id = 12

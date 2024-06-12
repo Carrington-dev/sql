@@ -1,0 +1,1 @@
+DELETE FROM `subscribe` WHERE id = 1;
